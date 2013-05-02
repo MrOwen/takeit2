@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  poster: 1
+  taker: 1
+  start_datetime: 
+  end_datetime: 2013-05-02 11:11:49
+  taken_datetime: 2013-05-02 11:11:49
+
+two:
+  poster: 1
+  taker: 1
+  start_datetime: 
+  end_datetime: 2013-05-02 11:11:49
+  taken_datetime: 2013-05-02 11:11:49
